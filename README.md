@@ -3,13 +3,6 @@
 
 A command line interface application using nodeJS, LIRI: LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-## Installing
-
-```shell
-$ git clone https://github.com/singha53/node-liri-app.git
-$ cd node-liri-app/
-```
-
 ## Walkthroughs
 
 1) Search for a song from Spotify (returns artist(s), song's name, song url and albumn)
@@ -138,6 +131,3 @@ The Hits--Chapter One
 
 - search for songs and movies
 
-## Links
-
-- Repository: https://github.com/singha53/https://github.com/singha53/node-liri-app/
